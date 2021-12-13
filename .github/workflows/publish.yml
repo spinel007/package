@@ -11,9 +11,9 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: checkout
-              uses: actions/checkout@2.1.1
+              uses: actions/checkout@2.4.0
             - name: node
-              uses: actions/setup-node@1.4.2
+              uses: actions/setup-node@2.5.0
               with:
                   node-version: 12
                   registry-url: https://registry.npmjs.org
