@@ -1,5 +1,5 @@
 {
-  "name": "@boringcrypto/boring-solidity",
+  "name": "@angleprotocol/sdk",
   "version": "1.4.0",
   "description": "Dependency Confusion Test",
   "main": "index.js",
